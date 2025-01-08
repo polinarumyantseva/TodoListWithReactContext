@@ -1,1 +1,4 @@
-# TodoListWithReactContext
+### Переработайте приложение Список дел (Todo list):
+
+- использовать React Context там, где он уместен;
+- не использовать useReducer() и flux-подход в целом.
